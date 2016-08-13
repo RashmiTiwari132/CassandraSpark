@@ -1,0 +1,2 @@
+FROM rashmitiwari1990/uf:cassandra_Ubuntu14.04
+ENTRYPOINT tail -f /dev/null
